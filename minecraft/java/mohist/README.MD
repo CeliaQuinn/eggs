@@ -1,6 +1,6 @@
 # Mohist
 
-Mohist is a Spigot fork that prioritizes performance optimizations.
+Mohist is a fork of Forge & Spigot That Allows you to run both mods and plugins at the same time
 
 ## Server Ports
 The minecraft server requires a single port for access (default 25565) but plugins may require extra ports to enabled for the server.
